@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    cart page
 </x-layout>

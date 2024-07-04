@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    about page
 </x-layout>

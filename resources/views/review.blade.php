@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    review page
 </x-layout>

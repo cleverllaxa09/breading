@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    hero page
 </x-layout>

@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    login page
 </x-layout>

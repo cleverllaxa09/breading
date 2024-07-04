@@ -1,4 +1,4 @@
 <x-layout>
 
-    home page
+    contact page
 </x-layout>
